@@ -1,5 +1,6 @@
 ---
 title: Indice
+title: Entornos de desarrollo
 layout: home
 ---
 INDICE
