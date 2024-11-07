@@ -1,28 +1,10 @@
 ---
 title: Indice
----
-
----
 title: Entornos de Desarrollo
----
-
----
 title: Ingles
----
-
----
 title: Programacion
----
-
----
 title: Base de Datos
----
-
----
 title: Sistemas Informaticos
----
-
----
 title: Lenguaje de Marcas
 ---
 
