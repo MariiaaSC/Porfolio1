@@ -1,18 +1,11 @@
 ---
 title: Indice
-layout: home
 title: Entornos de Desarrollo
-layout: home
 title: Ingles
-layout: home
 title: Programacion
-layout: home
 title: Base de Datos
-layout: home
 title: Sistemas Informaticos
-layout: home
 title: Lenguaje de Marcas
-layout: home
 ---
 INDICE
   -Entornos de desarrollo
